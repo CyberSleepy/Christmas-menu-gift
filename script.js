@@ -22,7 +22,7 @@ const menuData = {
         {
             number: "Course III - Palate Cleanser",
             name: "Lemon & Basil Granita",
-            description: "A refreshing icy granita with bright lemon and fresh basil. Recipe link: https://example.com/granita",
+            description: "A refreshing icy granita with bright lemon and fresh basil.",
             pairing: "Sparkling Limoncello Water",
             vegan: true
         },
